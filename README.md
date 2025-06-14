@@ -134,9 +134,4 @@ Distributed under the MIT License.
 
 For bugs or suggestions, please open an issue on GitHub.
 
-```
 
----
-
-İstersen ben bu iki dosyayı `.md` formatında hazırlayıp senin için dosya olarak da gönderebilirim. Nasıl istersen devam edelim!
-```
