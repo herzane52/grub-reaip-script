@@ -14,7 +14,8 @@ This script helps you **reinstall** or **update** the GRUB bootloader on Manjaro
 - Supports Btrfs and standard filesystems  
 - Works only in live USB environment  
 - Supports GUI (Zenity) and CLI modes  
-- English language support
+- English language support and For Turkish version, see [README_TR.md](README_TR.md)
+
 
 ---
 
