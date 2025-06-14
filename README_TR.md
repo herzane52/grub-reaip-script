@@ -12,7 +12,6 @@ Bu betik, Manjaro veya Arch tabanlı sistemlerde GRUB önyükleyicisini **canlı
 - Btrfs veya normal dosya sistemi desteği  
 - Canlı USB ortamında çalışır, sistem içinde çalıştırılmamalıdır  
 - Hem grafik arayüz (Zenity) hem de terminal tabanlı kullanım destekler  
-- Türkçe dil desteği
 
 ---
 
