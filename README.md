@@ -1,8 +1,4 @@
----
 
-# README\_TR.md
-
-````markdown
 # GRUB Onarma Aracı
 
 Bu betik, Manjaro veya Arch tabanlı sistemlerde GRUB önyükleyicisini **canlı USB (live USB)** ortamından kolayca yeniden kurmak veya güncellemek için hazırlanmıştır.
@@ -24,7 +20,7 @@ Bu betik, Manjaro veya Arch tabanlı sistemlerde GRUB önyükleyicisini **canlı
 
 1. Canlı USB’den sistemi başlatın ve terminal açın.  
 2. Betiği çalıştırın:  
-   ```bash
+```bash
    sudo bash grub-repair.sh
 ````
 
@@ -65,13 +61,13 @@ MIT Lisansı altında dağıtılmaktadır.
 
 Herhangi bir hata veya öneri için GitHub üzerinden issue açabilirsiniz.
 
-````
+
 
 ---
 
 # README_EN.md
 
-```markdown
+
 # GRUB Repair Tool
 
 This script helps you **reinstall** or **update** the GRUB bootloader on Manjaro or Arch-based systems from a live USB environment.
@@ -93,7 +89,7 @@ This script helps you **reinstall** or **update** the GRUB bootloader on Manjaro
 
 1. Boot your system from a live USB and open a terminal.  
 2. Run the script:  
-   ```bash
+```bash
    sudo bash grub-repair.sh
 ````
 
