@@ -1,7 +1,7 @@
 ---
 
 
-# GRUB Repair Tool
+# GRUB Repair script
 
 This script helps you **reinstall** or **update** the GRUB bootloader on Manjaro or Arch-based systems from a live USB environment.
 
