@@ -1,5 +1,5 @@
 
-# GRUB Onarma Aracı
+# GRUB Onarma Betiği
 
 Bu betik, Manjaro veya Arch tabanlı sistemlerde GRUB önyükleyicisini **canlı USB (live USB)** ortamından kolayca yeniden kurmak veya güncellemek için hazırlanmıştır.
 
